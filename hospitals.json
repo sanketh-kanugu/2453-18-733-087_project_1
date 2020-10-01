@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5f706bbbe533f311bcf246da"
+  },
+  "Hospital_id": "H1",
+  "Name": "Apollo Hospital",
+  "Address": "Plot No. 3-5-874/1 Near, Old MLA Quarters Rd, Hyderguda,Hyderabad,Telangana 500029",
+  "Contact_No": "040-23231380"
+},{
+  "_id": {
+    "$oid": "5f706bbbe533f311bcf246db"
+  },
+  "Hospital_id": "H2",
+  "Name": "Star Hospital",
+  "Address": "8-2-596 / 5, Road No. 10, Opposite Karvy Center, Beside Rainbow Hospital Banjara Hills",
+  "Contact_No": "040-66046048"
+},{
+  "_id": {
+    "$oid": "5f706bbbe533f311bcf246dc"
+  },
+  "Hospital_id": "H3",
+  "Name": "Yashoda Hospital",
+  "Address": "Nalgonda X Roads Malakpet, Hyderabad - 500036",
+  "Contact_No": "040-45674567"
+},{
+  "_id": {
+    "$oid": "5f706bbbe533f311bcf246dd"
+  },
+  "Hospital_id": "H4",
+  "Name": "KIMS Hospital",
+  "Address": "1-112 / 86, Survey No 5 / EE, Kondapur Village, Serilingampally Mandal Kondapur, Hyderabad - 500084",
+  "Contact_No": "040-67505050"
+},{
+  "_id": {
+    "$oid": "5f706bbbe533f311bcf246de"
+  },
+  "Hospital_id": "H5",
+  "Name": "Sunshine Hospital",
+  "Address": "Penderghast Road, Opposite Parsi Dharamsala, Behind Paradise Hotel Secunderabad",
+  "Contact_No": "040-44550000"
+}]

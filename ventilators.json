@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5f706bc7e533f311bcf246df"
+  },
+  "Hospital_id": "H1",
+  "Ventilator_id": "H1V1",
+  "Status": "Occupied",
+  "Name": "Apollo Hospital"
+},{
+  "_id": {
+    "$oid": "5f706bc7e533f311bcf246e0"
+  },
+  "Hospital_id": "H2",
+  "Ventilator_id": "H2V2",
+  "Status": "Occupied",
+  "Name": "Star Hospital"
+},{
+  "_id": {
+    "$oid": "5f706bc7e533f311bcf246e1"
+  },
+  "Hospital_id": "H3",
+  "Ventilator_id": "H3V3",
+  "Status": "Occupied",
+  "Name": "Yashoda Hospitial"
+},{
+  "_id": {
+    "$oid": "5f706bc7e533f311bcf246e2"
+  },
+  "Hospital_id": "H4",
+  "Ventilator_id": "H4V4",
+  "Status": "Under-Maintanence",
+  "Name": "KIMS Hospitial"
+},{
+  "_id": {
+    "$oid": "5f706bc7e533f311bcf246e3"
+  },
+  "Hospital_id": "H5",
+  "Ventilator_id": "H5V5",
+  "Status": "Available",
+  "Name": "Sunshine Hospitial"
+},{
+  "_id": {
+    "$oid": "5f7070e3c417c6dcb4dfcdd2"
+  },
+  "Hospital_id": "H6",
+  "Ventilator_id": "H6V6",
+  "Status": "Available",
+  "Name": "MGM Hospital"
+}]
